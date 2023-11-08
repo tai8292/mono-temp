@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108969083568",
+    "project_id": "mono-temp",
+    "storage_bucket": "mono-temp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108969083568:android:702ca2344e1718891b3175",
+        "android_client_info": {
+          "package_name": "com.onboard.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIhWx85livP70TqcEyFIpIQ-nPp_H8pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

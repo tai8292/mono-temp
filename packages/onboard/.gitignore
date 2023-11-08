@@ -27,7 +27,6 @@ DerivedData
 *.ipa
 *.xcuserstate
 ios/.xcode.env.local
-/ios/Firebase
 
 # Android/IntelliJ
 #
@@ -40,7 +39,6 @@ local.properties
 .cxx/
 *.keystore
 !debug.keystore
-/android/app/src/dev
 
 # node.js
 #

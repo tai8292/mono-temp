@@ -57,7 +57,7 @@ react {
 }
 
 project.ext.envConfigFiles = [
-    dev: ".env.dev",
+    dev: ".env",
     uat: ".env.uat",
     prod: ".env.prod",
 ]

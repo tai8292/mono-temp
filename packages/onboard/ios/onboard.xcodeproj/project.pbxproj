@@ -25,7 +25,7 @@
 		7699B88040F8A987B510C191 /* libPods-onboard-onboardTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-onboard-onboardTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8E75425001EE43E4B8562BA5 /* Hellix-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03C6E89B10654618A19EA8F9 /* Hellix-Thin.ttf */; };
-		923E0B782AF829D300C2E5CB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 923E0B772AF829D300C2E5CB /* GoogleService-Info.plist */; };
+		926D38F42AFC0FC700898B30 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 926D38F32AFC0FC700898B30 /* GoogleService-Info.plist */; };
 		963AF4398DEC44CAA717D543 /* Hellix-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A82E153C36DB4891A3623D10 /* Hellix-Bold.ttf */; };
 		B5024D1274B64578A5C7CF58 /* Hellix-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB68DA0745C945CDBB527500 /* Hellix-ExtraBold.ttf */; };
 		C0CD52ECD09342FD89287771 /* Hellix-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B02499A4C2FA411E899D89D7 /* Hellix-SemiBold.ttf */; };
@@ -73,7 +73,7 @@
 		89C6BE57DB24E9ADA2F236DE /* Pods-onboard-onboardTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.release.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.release.xcconfig"; sourceTree = "<group>"; };
 		8CD14C28F3A14DB2BC9415B6 /* Hellix-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-BlackItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-BlackItalic.ttf"; sourceTree = "<group>"; };
 		8FF4B8FF906742759BE0C1DB /* Hellix-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-LightItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-LightItalic.ttf"; sourceTree = "<group>"; };
-		923E0B772AF829D300C2E5CB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		926D38F32AFC0FC700898B30 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		928A0B2498B2DF2EB3ED84CE /* Pods-onboard.prodrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.prodrelease.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.prodrelease.xcconfig"; sourceTree = "<group>"; };
 		9EC2BDF449FB4F689575DD2B /* Hellix-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-MediumItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-MediumItalic.ttf"; sourceTree = "<group>"; };
 		A82E153C36DB4891A3623D10 /* Hellix-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Bold.ttf"; path = "../../shared/src/resources/fonts/Hellix-Bold.ttf"; sourceTree = "<group>"; };
@@ -162,7 +162,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				923E0B732AF827B100C2E5CB /* Firebase */,
+				926D38F12AFC0FAA00898B30 /* Firebase */,
 				13B07FAE1A68108700A75B9A /* onboard */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* onboardTests */,
@@ -185,18 +185,18 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		923E0B732AF827B100C2E5CB /* Firebase */ = {
+		926D38F12AFC0FAA00898B30 /* Firebase */ = {
 			isa = PBXGroup;
 			children = (
-				923E0B742AF827C300C2E5CB /* Dev */,
+				926D38F22AFC0FB300898B30 /* Dev */,
 			);
 			path = Firebase;
 			sourceTree = "<group>";
 		};
-		923E0B742AF827C300C2E5CB /* Dev */ = {
+		926D38F22AFC0FB300898B30 /* Dev */ = {
 			isa = PBXGroup;
 			children = (
-				923E0B772AF829D300C2E5CB /* GoogleService-Info.plist */,
+				926D38F32AFC0FC700898B30 /* GoogleService-Info.plist */,
 			);
 			path = Dev;
 			sourceTree = "<group>";
@@ -353,7 +353,7 @@
 				287759FAD71A412493314BC4 /* Hellix-Light.ttf in Resources */,
 				1E225A7D548A40FCB4C8525F /* Hellix-LightItalic.ttf in Resources */,
 				DF13ECDD5FA64F54B75A3D24 /* Hellix-Medium.ttf in Resources */,
-				923E0B782AF829D300C2E5CB /* GoogleService-Info.plist in Resources */,
+				926D38F42AFC0FC700898B30 /* GoogleService-Info.plist in Resources */,
 				760107CC356748DB8DDB2EC3 /* Hellix-MediumItalic.ttf in Resources */,
 				2E725A2AD45E48D7A4E7B9A4 /* Hellix-Regular.ttf in Resources */,
 				C7FFABCB871A45FC8CD47134 /* Hellix-RegularItalic.ttf in Resources */,

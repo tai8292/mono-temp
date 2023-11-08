@@ -22,8 +22,8 @@ if linkage != nil
 end
 
 ENVFILES = {
-  'Debug' => '$(PODS_ROOT)/../../.env.dev',
-  'Release' => '$(PODS_ROOT)/../../.env.dev',
+  'Debug' => '$(PODS_ROOT)/../../.env',
+  'Release' => '$(PODS_ROOT)/../../.env',
   'UatDebug' => '$(PODS_ROOT)/../../.env.uat',
   'UatRelease' => '$(PODS_ROOT)/../../.env.uat',
   'ProdDebug' => '$(PODS_ROOT)/../../.env.prod',
