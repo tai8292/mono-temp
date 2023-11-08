@@ -1,3 +1,4 @@
-import { RootNavProp } from "src/types/navigation/RootNavigator";
+import { RootNavProp } from "../../types/navigation/RootNavigator";
+
 
 export type HomeScreenProps = RootNavProp<'Home'>;

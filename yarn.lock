@@ -7247,10 +7247,10 @@ react-native-swiper@^1.6.0:
   dependencies:
     prop-types "^15.5.10"
 
-react-native-text-input-mask@3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/react-native-text-input-mask/-/react-native-text-input-mask-3.1.4.tgz#9b09d97a910ce8c24024d6187256b07c73e173ac"
-  integrity sha512-XhTPL1/Pv0kyuH8TMJGaxfnq5su9e+4G2PLngiismZ4xbP8+W/1ZEH4KQJQV+QkE2I5Oi+lPJXB2E47s60/OBA==
+react-native-text-input-mask@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-text-input-mask/-/react-native-text-input-mask-3.2.0.tgz#d8c4f45e6a2ae34f2b704b2c9c1c5441d109e4e0"
+  integrity sha512-YAV1MeZr5ME/GOUBSPCjAVCcDMPNcyoXw5FOdPkA8GK9Q+t1TcvD2QOGWglVxc9vAKMddub7EZ2wQhk2ph+ElQ==
 
 react-native@0.71.14:
   version "0.71.14"

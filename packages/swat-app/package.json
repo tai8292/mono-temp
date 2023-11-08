@@ -28,7 +28,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "test:ui": "npm install -g detox-cli && detox build && detox test",
-    "nodev": "nvm alias default 18.16.0 && nvm use default"
+    "nodev": "nvm alias default 18.16.0 && nvm use default",
+    "postinstall": "cd .. && cd .. && patch-package"
   },
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.11",
@@ -36,6 +37,7 @@
     "@react-navigation/stack": "^6.3.20",
     "axios": "^1.6.0",
     "lodash": "^4.17.21",
+    "postinstall-postinstall": "^2.1.0",
     "react": "18.2.0",
     "react-native": "0.71.14",
     "react-native-code-push": "^8.1.0",

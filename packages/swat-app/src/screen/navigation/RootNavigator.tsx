@@ -1,7 +1,7 @@
 import { createStackNavigator } from '@react-navigation/stack';
-import { RootParamList } from 'src/types/navigation/RootNavigator';
 import React from 'react';
 import TabNavigator from './TabNavigator';
+import { RootParamList } from '../../types/navigation/RootNavigator';
 
 const Stack = createStackNavigator<RootParamList>();
 

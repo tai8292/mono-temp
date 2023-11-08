@@ -51,15 +51,16 @@ react {
     //
     //   The list of flags to pass to the Hermes compiler. By default is "-O", "-output-source-map"
     // hermesFlags = ["-O", "-output-source-map"]
+    hermesCommand = "../../node_modules/react-native/sdks/hermesc/%OS-BIN%/hermesc"
 }
 
 project.ext.envConfigFiles = [
-    dev: ".env.dev",
+    dev: ".env",
     uat: ".env.uat",
     prod: ".env.prod",
 ]
 
-apply from: "../../node_modules/react-native-code-push/android/codepush.gradle"
+apply from: "../../../../node_modules/react-native-code-push/android/codepush.gradle"
 
 /**
  * Set this to true to create four separate APKs instead of one,
@@ -152,7 +153,7 @@ android {
             signingConfig signingConfigs.release
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
-            proguardFile "${rootProject.projectDir}/../node_modules/detox/android/detox/proguard-rules-app.pro"
+            proguardFile "${rootProject.projectDir}/../../../node_modules/detox/android/detox/proguard-rules-app.pro"
         }
     }
     flavorDimensions "environment"
@@ -210,4 +211,4 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.1.0'
 }
 
-apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
+apply from: file("../../../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
