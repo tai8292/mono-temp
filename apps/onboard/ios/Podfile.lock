@@ -802,7 +802,7 @@ SPEC CHECKSUMS:
   CodePush: 255d7607f428dcbec39085f81a206b170e01d012
   DoubleConversion: 5189b271737e1565bdce30deb4a08d647e3f5f54
   FBLazyVector: 12ea01e587c9594e7b144e1bfc86ac4d9ac28fde
-  FBReactNativeSpec: 9023bb5af19303015e5968ad7bfe9129f6f33e4c
+  FBReactNativeSpec: fdfff8d9f3005d20e2d5746040697f39100a8c0a
   Firebase: f4ac0b02927af9253ae094d23deecf0890da7374
   FirebaseAnalytics: b9284f9fff10157a843e0422e908711f7bf3b9f2
   FirebaseCore: 534544dd98cabcf4bf8598d88ec683b02319a528

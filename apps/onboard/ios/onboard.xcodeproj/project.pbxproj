@@ -8,29 +8,29 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* onboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* onboardTests.m */; };
+		028AD1F2FB3545469D095A4E /* Hellix-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75293B298AB448678418E7E9 /* Hellix-LightItalic.ttf */; };
+		0653B9889B604239BDF1FF13 /* Hellix-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3CBE973FDD6498086E4BEB2 /* Hellix-BlackItalic.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-onboard.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-onboard.a */; };
-		0E62C1DFA90343AEA43B4EB4 /* Hellix-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF9EAB475D1C4398BE0D95D6 /* Hellix-ThinItalic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1E225A7D548A40FCB4C8525F /* Hellix-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FF4B8FF906742759BE0C1DB /* Hellix-LightItalic.ttf */; };
-		22B0A421995747F78864096D /* Hellix-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D206980EF7F3457E9EBA781F /* Hellix-ExtraBoldItalic.ttf */; };
-		287759FAD71A412493314BC4 /* Hellix-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 25869BF933A8405AAC26D644 /* Hellix-Light.ttf */; };
-		2E184D8E43D94FBC976D5C9E /* Hellix-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F449020FACAF47DC8E6598C9 /* Hellix-SemiBoldItalic.ttf */; };
-		2E725A2AD45E48D7A4E7B9A4 /* Hellix-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49BAD8CBF7994CE59F021A90 /* Hellix-Regular.ttf */; };
-		33B7C6699C9E4EE8A34D81A5 /* Hellix-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8CD14C28F3A14DB2BC9415B6 /* Hellix-BlackItalic.ttf */; };
-		394B63CBB121487B9934B89D /* Hellix-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D0C47D5E25494C0E9F97D0B7 /* Hellix-Black.ttf */; };
-		676F68724F1449809605A830 /* Hellix-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFD0D11094A54C13B23A8371 /* Hellix-BoldItalic.ttf */; };
-		760107CC356748DB8DDB2EC3 /* Hellix-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EC2BDF449FB4F689575DD2B /* Hellix-MediumItalic.ttf */; };
+		19D9D91F7A174FE2A863E828 /* Hellix-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CC467DB00CB643869E05BAFD /* Hellix-SemiBold.ttf */; };
+		3244E76B6D834C8785FE5726 /* Hellix-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BF1BAE752904425D812433FA /* Hellix-SemiBoldItalic.ttf */; };
+		4EE8A262C39647F5BD4FE46F /* Hellix-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01ABC38423D3434C918FFE2A /* Hellix-Light.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-onboard-onboardTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-onboard-onboardTests.a */; };
+		7712B5AE97434820916B8706 /* Hellix-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAFDD8B17513428D8BB25004 /* Hellix-ExtraBold.ttf */; };
+		79E50FEC1D1B4AE7A6DD5E2E /* Hellix-RegularItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82E946F36E3D45BAAF14B535 /* Hellix-RegularItalic.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		8E75425001EE43E4B8562BA5 /* Hellix-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03C6E89B10654618A19EA8F9 /* Hellix-Thin.ttf */; };
+		87C2C46CAEF34A9DB29F2237 /* Hellix-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 695C02AEAD8A4ECF9A33F518 /* Hellix-Black.ttf */; };
 		926D38F42AFC0FC700898B30 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 926D38F32AFC0FC700898B30 /* GoogleService-Info.plist */; };
-		963AF4398DEC44CAA717D543 /* Hellix-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A82E153C36DB4891A3623D10 /* Hellix-Bold.ttf */; };
-		B5024D1274B64578A5C7CF58 /* Hellix-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB68DA0745C945CDBB527500 /* Hellix-ExtraBold.ttf */; };
-		C0CD52ECD09342FD89287771 /* Hellix-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B02499A4C2FA411E899D89D7 /* Hellix-SemiBold.ttf */; };
-		C7FFABCB871A45FC8CD47134 /* Hellix-RegularItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC01721724D24ECCB9F200F3 /* Hellix-RegularItalic.ttf */; };
-		DF13ECDD5FA64F54B75A3D24 /* Hellix-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65170173B564444390B297B0 /* Hellix-Medium.ttf */; };
+		A7977CBBE18D4342AECE1A45 /* Hellix-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD2049E4C6F8472B8121FC49 /* Hellix-ExtraBoldItalic.ttf */; };
+		B271A6D639A7451FA06659F5 /* Hellix-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 98D0B1979F3C4EE784A2C8D0 /* Hellix-Bold.ttf */; };
+		BF22D4EBBE614C1CAF874774 /* Hellix-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D47BB50D116456C994D4325 /* Hellix-MediumItalic.ttf */; };
+		C0E6C9542DEB41668B6D4928 /* Hellix-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5ECA37D72B1C4B43AD9FCEDA /* Hellix-Thin.ttf */; };
+		C6891FB45DD94CB1854D425C /* Hellix-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D6D8C5B76214490DA088B905 /* Hellix-Medium.ttf */; };
+		D6FF8B48CA5B40B38028EC9A /* Hellix-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 79EAAE60ABED49C38DF83FC4 /* Hellix-Regular.ttf */; };
+		DBD17C6DD068499C885C5519 /* Hellix-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B0DEAD28168459E9F9F907C /* Hellix-BoldItalic.ttf */; };
+		F58C8DDE43EE44B997CD3202 /* Hellix-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 31C248164BB040C0A97B8346 /* Hellix-ThinItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +47,7 @@
 		00E356EE1AD99517003FC87E /* onboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = onboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* onboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = onboardTests.m; sourceTree = "<group>"; };
-		03C6E89B10654618A19EA8F9 /* Hellix-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Thin.ttf"; path = "../../shared/src/resources/fonts/Hellix-Thin.ttf"; sourceTree = "<group>"; };
+		01ABC38423D3434C918FFE2A /* Hellix-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Light.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-Light.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* DEV onboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DEV onboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = onboard/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = onboard/AppDelegate.mm; sourceTree = "<group>"; };
@@ -55,41 +55,41 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = onboard/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = onboard/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-onboard-onboardTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-onboard-onboardTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		25869BF933A8405AAC26D644 /* Hellix-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Light.ttf"; path = "../../shared/src/resources/fonts/Hellix-Light.ttf"; sourceTree = "<group>"; };
+		2B0DEAD28168459E9F9F907C /* Hellix-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-BoldItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-BoldItalic.ttf"; sourceTree = "<group>"; };
+		31C248164BB040C0A97B8346 /* Hellix-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-ThinItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-ThinItalic.ttf"; sourceTree = "<group>"; };
 		3AE39C146099AF9C90FE0468 /* Pods-onboard.devrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.devrelease.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.devrelease.xcconfig"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-onboard.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.debug.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.debug.xcconfig"; sourceTree = "<group>"; };
-		49BAD8CBF7994CE59F021A90 /* Hellix-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Regular.ttf"; path = "../../shared/src/resources/fonts/Hellix-Regular.ttf"; sourceTree = "<group>"; };
+		3D47BB50D116456C994D4325 /* Hellix-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-MediumItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-MediumItalic.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-onboard.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.release.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-onboard-onboardTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.debug.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-onboard.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-onboard.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5ECA37D72B1C4B43AD9FCEDA /* Hellix-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Thin.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-Thin.ttf"; sourceTree = "<group>"; };
 		5F4A0275368B44C307AB43C8 /* Pods-onboard-onboardTests.devrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.devrelease.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.devrelease.xcconfig"; sourceTree = "<group>"; };
-		65170173B564444390B297B0 /* Hellix-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Medium.ttf"; path = "../../shared/src/resources/fonts/Hellix-Medium.ttf"; sourceTree = "<group>"; };
 		66E73BF0BE5E66E960C0F57C /* Pods-onboard.proddebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.proddebug.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.proddebug.xcconfig"; sourceTree = "<group>"; };
 		66F0C4E7B0B0F75D3A028907 /* Pods-onboard-onboardTests.uatrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.uatrelease.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.uatrelease.xcconfig"; sourceTree = "<group>"; };
 		685A2C252FBE0357F69A7774 /* Pods-onboard-onboardTests.uatdebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.uatdebug.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.uatdebug.xcconfig"; sourceTree = "<group>"; };
+		695C02AEAD8A4ECF9A33F518 /* Hellix-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Black.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-Black.ttf"; sourceTree = "<group>"; };
 		6F543C3CE733E1B13495F203 /* Pods-onboard-onboardTests.prodrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.prodrelease.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.prodrelease.xcconfig"; sourceTree = "<group>"; };
+		75293B298AB448678418E7E9 /* Hellix-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-LightItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-LightItalic.ttf"; sourceTree = "<group>"; };
 		784F6F3FCAA4854EEC8FB6E0 /* Pods-onboard.uatdebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.uatdebug.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.uatdebug.xcconfig"; sourceTree = "<group>"; };
+		79EAAE60ABED49C38DF83FC4 /* Hellix-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Regular.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-Regular.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = onboard/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		82E946F36E3D45BAAF14B535 /* Hellix-RegularItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-RegularItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-RegularItalic.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-onboard-onboardTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.release.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.release.xcconfig"; sourceTree = "<group>"; };
-		8CD14C28F3A14DB2BC9415B6 /* Hellix-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-BlackItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-BlackItalic.ttf"; sourceTree = "<group>"; };
-		8FF4B8FF906742759BE0C1DB /* Hellix-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-LightItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-LightItalic.ttf"; sourceTree = "<group>"; };
 		926D38F32AFC0FC700898B30 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		928A0B2498B2DF2EB3ED84CE /* Pods-onboard.prodrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.prodrelease.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.prodrelease.xcconfig"; sourceTree = "<group>"; };
-		9EC2BDF449FB4F689575DD2B /* Hellix-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-MediumItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-MediumItalic.ttf"; sourceTree = "<group>"; };
-		A82E153C36DB4891A3623D10 /* Hellix-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Bold.ttf"; path = "../../shared/src/resources/fonts/Hellix-Bold.ttf"; sourceTree = "<group>"; };
-		B02499A4C2FA411E899D89D7 /* Hellix-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-SemiBold.ttf"; path = "../../shared/src/resources/fonts/Hellix-SemiBold.ttf"; sourceTree = "<group>"; };
-		BFD0D11094A54C13B23A8371 /* Hellix-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-BoldItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-BoldItalic.ttf"; sourceTree = "<group>"; };
+		98D0B1979F3C4EE784A2C8D0 /* Hellix-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Bold.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-Bold.ttf"; sourceTree = "<group>"; };
+		A3CBE973FDD6498086E4BEB2 /* Hellix-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-BlackItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-BlackItalic.ttf"; sourceTree = "<group>"; };
+		BAFDD8B17513428D8BB25004 /* Hellix-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-ExtraBold.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-ExtraBold.ttf"; sourceTree = "<group>"; };
+		BD2049E4C6F8472B8121FC49 /* Hellix-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-ExtraBoldItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		BF1BAE752904425D812433FA /* Hellix-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-SemiBoldItalic.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		CC467DB00CB643869E05BAFD /* Hellix-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-SemiBold.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-SemiBold.ttf"; sourceTree = "<group>"; };
 		D0010BA002A9372FEC0C8AA9 /* Pods-onboard.devdebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.devdebug.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.devdebug.xcconfig"; sourceTree = "<group>"; };
 		D02FD0D8406A72CD8ECE049C /* Pods-onboard-onboardTests.devdebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.devdebug.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.devdebug.xcconfig"; sourceTree = "<group>"; };
-		D0C47D5E25494C0E9F97D0B7 /* Hellix-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Black.ttf"; path = "../../shared/src/resources/fonts/Hellix-Black.ttf"; sourceTree = "<group>"; };
-		D206980EF7F3457E9EBA781F /* Hellix-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-ExtraBoldItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
-		DB68DA0745C945CDBB527500 /* Hellix-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-ExtraBold.ttf"; path = "../../shared/src/resources/fonts/Hellix-ExtraBold.ttf"; sourceTree = "<group>"; };
+		D6D8C5B76214490DA088B905 /* Hellix-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-Medium.ttf"; path = "../../../packages/shared/src/resources/fonts/Hellix-Medium.ttf"; sourceTree = "<group>"; };
 		DD465009E9422D5A56D032AF /* Pods-onboard-onboardTests.proddebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard-onboardTests.proddebug.xcconfig"; path = "Target Support Files/Pods-onboard-onboardTests/Pods-onboard-onboardTests.proddebug.xcconfig"; sourceTree = "<group>"; };
-		EC01721724D24ECCB9F200F3 /* Hellix-RegularItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-RegularItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-RegularItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F13BAA5B9B24B6A9AEFD9140 /* Pods-onboard.uatrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onboard.uatrelease.xcconfig"; path = "Target Support Files/Pods-onboard/Pods-onboard.uatrelease.xcconfig"; sourceTree = "<group>"; };
-		F449020FACAF47DC8E6598C9 /* Hellix-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-SemiBoldItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
-		FF9EAB475D1C4398BE0D95D6 /* Hellix-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Hellix-ThinItalic.ttf"; path = "../../shared/src/resources/fonts/Hellix-ThinItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,22 +204,22 @@
 		9EB0EA13D6E144149CE79E5D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D0C47D5E25494C0E9F97D0B7 /* Hellix-Black.ttf */,
-				8CD14C28F3A14DB2BC9415B6 /* Hellix-BlackItalic.ttf */,
-				A82E153C36DB4891A3623D10 /* Hellix-Bold.ttf */,
-				BFD0D11094A54C13B23A8371 /* Hellix-BoldItalic.ttf */,
-				DB68DA0745C945CDBB527500 /* Hellix-ExtraBold.ttf */,
-				D206980EF7F3457E9EBA781F /* Hellix-ExtraBoldItalic.ttf */,
-				25869BF933A8405AAC26D644 /* Hellix-Light.ttf */,
-				8FF4B8FF906742759BE0C1DB /* Hellix-LightItalic.ttf */,
-				65170173B564444390B297B0 /* Hellix-Medium.ttf */,
-				9EC2BDF449FB4F689575DD2B /* Hellix-MediumItalic.ttf */,
-				49BAD8CBF7994CE59F021A90 /* Hellix-Regular.ttf */,
-				EC01721724D24ECCB9F200F3 /* Hellix-RegularItalic.ttf */,
-				B02499A4C2FA411E899D89D7 /* Hellix-SemiBold.ttf */,
-				F449020FACAF47DC8E6598C9 /* Hellix-SemiBoldItalic.ttf */,
-				03C6E89B10654618A19EA8F9 /* Hellix-Thin.ttf */,
-				FF9EAB475D1C4398BE0D95D6 /* Hellix-ThinItalic.ttf */,
+				695C02AEAD8A4ECF9A33F518 /* Hellix-Black.ttf */,
+				A3CBE973FDD6498086E4BEB2 /* Hellix-BlackItalic.ttf */,
+				98D0B1979F3C4EE784A2C8D0 /* Hellix-Bold.ttf */,
+				2B0DEAD28168459E9F9F907C /* Hellix-BoldItalic.ttf */,
+				BAFDD8B17513428D8BB25004 /* Hellix-ExtraBold.ttf */,
+				BD2049E4C6F8472B8121FC49 /* Hellix-ExtraBoldItalic.ttf */,
+				01ABC38423D3434C918FFE2A /* Hellix-Light.ttf */,
+				75293B298AB448678418E7E9 /* Hellix-LightItalic.ttf */,
+				D6D8C5B76214490DA088B905 /* Hellix-Medium.ttf */,
+				3D47BB50D116456C994D4325 /* Hellix-MediumItalic.ttf */,
+				79EAAE60ABED49C38DF83FC4 /* Hellix-Regular.ttf */,
+				82E946F36E3D45BAAF14B535 /* Hellix-RegularItalic.ttf */,
+				CC467DB00CB643869E05BAFD /* Hellix-SemiBold.ttf */,
+				BF1BAE752904425D812433FA /* Hellix-SemiBoldItalic.ttf */,
+				5ECA37D72B1C4B43AD9FCEDA /* Hellix-Thin.ttf */,
+				31C248164BB040C0A97B8346 /* Hellix-ThinItalic.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -344,23 +344,23 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				394B63CBB121487B9934B89D /* Hellix-Black.ttf in Resources */,
-				33B7C6699C9E4EE8A34D81A5 /* Hellix-BlackItalic.ttf in Resources */,
-				963AF4398DEC44CAA717D543 /* Hellix-Bold.ttf in Resources */,
-				676F68724F1449809605A830 /* Hellix-BoldItalic.ttf in Resources */,
-				B5024D1274B64578A5C7CF58 /* Hellix-ExtraBold.ttf in Resources */,
-				22B0A421995747F78864096D /* Hellix-ExtraBoldItalic.ttf in Resources */,
-				287759FAD71A412493314BC4 /* Hellix-Light.ttf in Resources */,
-				1E225A7D548A40FCB4C8525F /* Hellix-LightItalic.ttf in Resources */,
-				DF13ECDD5FA64F54B75A3D24 /* Hellix-Medium.ttf in Resources */,
 				926D38F42AFC0FC700898B30 /* GoogleService-Info.plist in Resources */,
-				760107CC356748DB8DDB2EC3 /* Hellix-MediumItalic.ttf in Resources */,
-				2E725A2AD45E48D7A4E7B9A4 /* Hellix-Regular.ttf in Resources */,
-				C7FFABCB871A45FC8CD47134 /* Hellix-RegularItalic.ttf in Resources */,
-				C0CD52ECD09342FD89287771 /* Hellix-SemiBold.ttf in Resources */,
-				2E184D8E43D94FBC976D5C9E /* Hellix-SemiBoldItalic.ttf in Resources */,
-				8E75425001EE43E4B8562BA5 /* Hellix-Thin.ttf in Resources */,
-				0E62C1DFA90343AEA43B4EB4 /* Hellix-ThinItalic.ttf in Resources */,
+				87C2C46CAEF34A9DB29F2237 /* Hellix-Black.ttf in Resources */,
+				0653B9889B604239BDF1FF13 /* Hellix-BlackItalic.ttf in Resources */,
+				B271A6D639A7451FA06659F5 /* Hellix-Bold.ttf in Resources */,
+				DBD17C6DD068499C885C5519 /* Hellix-BoldItalic.ttf in Resources */,
+				7712B5AE97434820916B8706 /* Hellix-ExtraBold.ttf in Resources */,
+				A7977CBBE18D4342AECE1A45 /* Hellix-ExtraBoldItalic.ttf in Resources */,
+				4EE8A262C39647F5BD4FE46F /* Hellix-Light.ttf in Resources */,
+				028AD1F2FB3545469D095A4E /* Hellix-LightItalic.ttf in Resources */,
+				C6891FB45DD94CB1854D425C /* Hellix-Medium.ttf in Resources */,
+				BF22D4EBBE614C1CAF874774 /* Hellix-MediumItalic.ttf in Resources */,
+				D6FF8B48CA5B40B38028EC9A /* Hellix-Regular.ttf in Resources */,
+				79E50FEC1D1B4AE7A6DD5E2E /* Hellix-RegularItalic.ttf in Resources */,
+				19D9D91F7A174FE2A863E828 /* Hellix-SemiBold.ttf in Resources */,
+				3244E76B6D834C8785FE5726 /* Hellix-SemiBoldItalic.ttf in Resources */,
+				C0E6C9542DEB41668B6D4928 /* Hellix-Thin.ttf in Resources */,
+				F58C8DDE43EE44B997CD3202 /* Hellix-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

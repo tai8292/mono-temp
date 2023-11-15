@@ -1,6 +1,8 @@
 PODS:
   - Base64 (1.1.2)
   - boost (1.76.0)
+  - BVLinearGradient (2.8.3):
+    - React-Core
   - CocoaAsyncSocket (7.6.5)
   - CodePush (8.1.0):
     - Base64 (~> 1.1)
@@ -476,6 +478,7 @@ PODS:
 
 DEPENDENCIES:
   - boost (from `../../../node_modules/react-native/third-party-podspecs/boost.podspec`)
+  - BVLinearGradient (from `../node_modules/react-native-linear-gradient`)
   - CodePush (from `../../../node_modules/react-native-code-push`)
   - DoubleConversion (from `../../../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
   - FBLazyVector (from `../../../node_modules/react-native/Libraries/FBLazyVector`)
@@ -568,6 +571,8 @@ SPEC REPOS:
 EXTERNAL SOURCES:
   boost:
     :podspec: "../../../node_modules/react-native/third-party-podspecs/boost.podspec"
+  BVLinearGradient:
+    :path: "../node_modules/react-native-linear-gradient"
   CodePush:
     :path: "../../../node_modules/react-native-code-push"
   DoubleConversion:
@@ -656,11 +661,12 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
   boost: 57d2868c099736d80fcd648bf211b4431e51a558
+  BVLinearGradient: 880f91a7854faff2df62518f0281afb1c60d49a3
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   CodePush: 255d7607f428dcbec39085f81a206b170e01d012
   DoubleConversion: 5189b271737e1565bdce30deb4a08d647e3f5f54
   FBLazyVector: 12ea01e587c9594e7b144e1bfc86ac4d9ac28fde
-  FBReactNativeSpec: 281f62b0613be740efcf11576b35988ba89dc7a1
+  FBReactNativeSpec: 19b0cf1dd3df48e8dd770567b98fc0f8ceda760e
   Flipper: 26fc4b7382499f1281eb8cb921e5c3ad6de91fe0
   Flipper-Boost-iOSX: fd1e2b8cbef7e662a122412d7ac5f5bea715403c
   Flipper-DoubleConversion: 2dc99b02f658daf147069aad9dbd29d8feb06d30
@@ -716,6 +722,6 @@ SPEC CHECKSUMS:
   Yoga: e71803b4c1fff832ccf9b92541e00f9b873119b9
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
-PODFILE CHECKSUM: d26d87045cd53b9383050aa849bf5c13848fae11
+PODFILE CHECKSUM: 7ca7c977c72fd45c61746a8eeaa0d39392229013
 
 COCOAPODS: 1.12.0

@@ -1998,12 +1998,10 @@ index 0000000..7c9d30e
 +int xml rn_dev_preferences 0x0
 diff --git a/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/jars/classes.jar b/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/jars/classes.jar
 new file mode 100644
-index 0000000..69cfaa1
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/jars/classes.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/jars/libs/R.jar b/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/jars/libs/R.jar
 new file mode 100644
-index 0000000..fe52641
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/jars/libs/R.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/proguard.txt b/node_modules/react-native-code-push/android/app/build/.transforms/09a988afe861ac35416afbe14e1c6de2/transformed/out/proguard.txt
 new file mode 100644
 index 0000000..dfdb5af
@@ -2100,8 +2098,7 @@ index 0000000..387ec9a
 \ No newline at end of file
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/aar_main_jar/release/classes.jar b/node_modules/react-native-code-push/android/app/build/intermediates/aar_main_jar/release/classes.jar
 new file mode 100644
-index 0000000..69cfaa1
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/aar_main_jar/release/classes.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/aar_metadata/release/aar-metadata.properties b/node_modules/react-native-code-push/android/app/build/intermediates/aar_metadata/release/aar-metadata.properties
 new file mode 100644
 index 0000000..8c9c699
@@ -2125,8 +2122,7 @@ new file mode 100644
 index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/compile_r_class_jar/release/R.jar b/node_modules/react-native-code-push/android/app/build/intermediates/compile_r_class_jar/release/R.jar
 new file mode 100644
-index 0000000..fe52641
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/compile_r_class_jar/release/R.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/compile_symbol_list/release/R.txt b/node_modules/react-native-code-push/android/app/build/intermediates/compile_symbol_list/release/R.txt
 new file mode 100644
 index 0000000..7c9d30e
@@ -4115,8 +4111,7 @@ index 0000000..d66463f
 \ No newline at end of file
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/incremental/release-mergeJavaRes/merge-state b/node_modules/react-native-code-push/android/app/build/intermediates/incremental/release-mergeJavaRes/merge-state
 new file mode 100644
-index 0000000..1c983fc
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/incremental/release-mergeJavaRes/merge-state differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties b/node_modules/react-native-code-push/android/app/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
 new file mode 100644
 index 0000000..8310509
@@ -4135,156 +4130,118 @@ index 0000000..3ba2ad1
 \ No newline at end of file
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/BuildConfig.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/BuildConfig.class
 new file mode 100644
-index 0000000..10a3d29
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/BuildConfig.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePush.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePush.class
 new file mode 100644
-index 0000000..47853f3
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePush.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushBuilder.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushBuilder.class
 new file mode 100644
-index 0000000..4955eec
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushBuilder.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushConstants.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushConstants.class
 new file mode 100644
-index 0000000..11b1c33
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushConstants.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog$1.class
 new file mode 100644
-index 0000000..bb12f38
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog$2.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog$2.class
 new file mode 100644
-index 0000000..dd3e3b6
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog$2.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog.class
 new file mode 100644
-index 0000000..d91de58
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushDialog.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInstallMode.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInstallMode.class
 new file mode 100644
-index 0000000..a60a5cb
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInstallMode.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInvalidPublicKeyException.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInvalidPublicKeyException.class
 new file mode 100644
-index 0000000..3b4fb81
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInvalidPublicKeyException.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInvalidUpdateException.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInvalidUpdateException.class
 new file mode 100644
-index 0000000..51b4dfb
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushInvalidUpdateException.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushMalformedDataException.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushMalformedDataException.class
 new file mode 100644
-index 0000000..43e7379
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushMalformedDataException.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$1.class
 new file mode 100644
-index 0000000..64d715e
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$2.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$2.class
 new file mode 100644
-index 0000000..cf45743
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$2.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1$1$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1$1$1.class
 new file mode 100644
-index 0000000..43cc32d
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1$1$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1$1.class
 new file mode 100644
-index 0000000..e238c9f
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1.class
 new file mode 100644
-index 0000000..1376a5d
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3.class
 new file mode 100644
-index 0000000..8d29759
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$3.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$4.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$4.class
 new file mode 100644
-index 0000000..4902e32
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$4.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$5.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$5.class
 new file mode 100644
-index 0000000..ef79d5c
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$5.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6$1$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6$1$1.class
 new file mode 100644
-index 0000000..f2ca8a8
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6$1$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6$1.class
 new file mode 100644
-index 0000000..df43e99
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6.class
 new file mode 100644
-index 0000000..373bead
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule$6.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule.class
 new file mode 100644
-index 0000000..3dfa916
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNativeModule.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNotInitializedException.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNotInitializedException.class
 new file mode 100644
-index 0000000..06fce9f
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushNotInitializedException.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushTelemetryManager.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushTelemetryManager.class
 new file mode 100644
-index 0000000..69996f3
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushTelemetryManager.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUnknownException.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUnknownException.class
 new file mode 100644
-index 0000000..3c74bab
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUnknownException.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateManager.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateManager.class
 new file mode 100644
-index 0000000..8403acc
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateManager.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateState.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateState.class
 new file mode 100644
-index 0000000..74af1c1
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateState.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateUtils.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateUtils.class
 new file mode 100644
-index 0000000..6fe1b3d
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUpdateUtils.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUtils$1.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUtils$1.class
 new file mode 100644
-index 0000000..6fcbc9d
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUtils$1.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUtils.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUtils.class
 new file mode 100644
-index 0000000..0014959
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/CodePushUtils.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/DownloadProgress.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/DownloadProgress.class
 new file mode 100644
-index 0000000..4ae87fb
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/DownloadProgress.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/DownloadProgressCallback.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/DownloadProgressCallback.class
 new file mode 100644
-index 0000000..44865ec
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/DownloadProgressCallback.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/FileUtils.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/FileUtils.class
 new file mode 100644
-index 0000000..bf40603
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/FileUtils.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/ReactInstanceHolder.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/ReactInstanceHolder.class
 new file mode 100644
-index 0000000..78378c6
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/ReactInstanceHolder.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/SettingsManager.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/SettingsManager.class
 new file mode 100644
-index 0000000..e4ca39a
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/SettingsManager.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/TLSSocketFactory.class b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/TLSSocketFactory.class
 new file mode 100644
-index 0000000..2b89f70
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/javac/release/classes/com/microsoft/codepush/react/TLSSocketFactory.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/local_aar_for_lint/release/out.aar b/node_modules/react-native-code-push/android/app/build/intermediates/local_aar_for_lint/release/out.aar
 new file mode 100644
-index 0000000..dc8cf36
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/local_aar_for_lint/release/out.aar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/local_only_symbol_list/release/R-def.txt b/node_modules/react-native-code-push/android/app/build/intermediates/local_only_symbol_list/release/R-def.txt
 new file mode 100644
 index 0000000..78ac5b8
@@ -4354,8 +4311,7 @@ index 0000000..dfdb5af
 +-dontwarn com.nimbusds.jose.**
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/merged_java_res/release/feature-react-native-code-push.jar b/node_modules/react-native-code-push/android/app/build/intermediates/merged_java_res/release/feature-react-native-code-push.jar
 new file mode 100644
-index 0000000..15cb0ec
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/intermediates/merged_java_res/release/feature-react-native-code-push.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/release/AndroidManifest.xml b/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/release/AndroidManifest.xml
 new file mode 100644
 index 0000000..551bbc1
@@ -5898,8 +5854,7 @@ index 0000000..e453e32
 +		INJECTED from /Users/anthony/project/lumens/yarns-workspace/mono-temp/node_modules/react-native-code-push/android/app/src/main/AndroidManifest.xml
 diff --git a/node_modules/react-native-code-push/android/app/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-code-push/android/app/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin
 new file mode 100644
-index 0000000..8aea71d
-Binary files /dev/null and b/node_modules/react-native-code-push/android/app/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-code-push/android/codepush.gradle b/node_modules/react-native-code-push/android/codepush.gradle
 index a0f9d27..8d85de3 100644
 --- a/node_modules/react-native-code-push/android/codepush.gradle
@@ -5927,3 +5882,17 @@ index a0f9d27..8d85de3 100644
  
          def targetName = variant.name.capitalize()
          def targetPath = variant.dirName
+diff --git a/node_modules/react-native-code-push/scripts/generateBundledResourcesHash.js b/node_modules/react-native-code-push/scripts/generateBundledResourcesHash.js
+index 01ab70c..8bd2149 100644
+--- a/node_modules/react-native-code-push/scripts/generateBundledResourcesHash.js
++++ b/node_modules/react-native-code-push/scripts/generateBundledResourcesHash.js
+@@ -78,6 +78,9 @@ function addJsBundleAndMetaToManifest() {
+             console.log(finalHash);
+ 
+             var savedResourcesManifestPath = assetsDir + "/" + CODE_PUSH_HASH_FILE_NAME;
++            if (fs.existsSync(savedResourcesManifestPath)) {
++                fs.unlinkSync(savedResourcesManifestPath);
++            }
+             fs.writeFileSync(savedResourcesManifestPath, finalHash);
+ 
+             // "CodePushHash.json" file name breaks flow type checking.
